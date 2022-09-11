@@ -1,0 +1,28 @@
+{
+  "name": "studion",
+  "version": "0.0.1",
+  "description": "Home page for Studion",
+  "main": "src\u001bq\u001b\u001bQ\u001b\u001b////Q\u001bq\u001bqhttps://git\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[\u001b\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[ srchttps://\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001bsrc/index.html",
+  "scripts": {
+    "start": "npx live-server studion/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayconcastelari/studion.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "Maycon Castelari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayconcastelari/studion/issues"
+  },
+  "homepage": "https://github.com/mayconcastelari/studion#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
