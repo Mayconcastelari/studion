@@ -1,4 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700;900&family=Roboto&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/fontawesome.min.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/brands.min.css');
+
+
 * {
     box-sizing: border-box;
 }
@@ -214,10 +218,67 @@ ul {
   .btn--institutional:hover {
    color: var(--color-copy);
    background: unset
+   
+ }
+
+ .quote {
+     background-image: url(./images/parallax.jpg);
+     background-attachment: fixed;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center;
+     
+     
+
+ }
+
+ .quote__container {
+    display: grid;
+    align-items: center;
+    justify-items: end;
+    min-height: 80vh;
+
+ }
+
+
+ .quote__copy{
+    background-color: #fff;
+    padding: 5.625rem 4.375rem;
+  
+ }
+
+ .quote__copy h6 {
+    font-size: .9375rem;
+    font-weight: 400;
+    letter-spacing: .1875rem;
+    line-height: 1.475rem;
+    max-width: 53ch;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+.quote__copy h2 {
+    font-size: 5rem;
+    line-height: 5rem;
+    text-transform: uppercase;  
+    letter-spacing: -.1875rem;
+    /* letter spacing= espaçamento entre letras */
+    margin-top: 1.875rem;
+    margin-bottom: 1.875rem;
+}
+
+.quote__copy span {
+    display: block;
+}
+
+.btn--quoty {
+    color: var(--color-copy);
+    border-color: var(--color-copy);
+    background: unset;
+
+}
 
    
 
 
-
-  }
 
