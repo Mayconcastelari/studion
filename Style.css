@@ -267,15 +267,14 @@ ul {
     margin-bottom: 1.875rem;
 }
 
-.quote__copy span {
+.quote__copy h2 span {
     display: block;
 }
 
-.btn--quoty {
-    color: var(--color-copy);
-    border-color: var(--color-copy);
-    background: unset;
-
+.btn--cot {
+   color: var(--color-copy);
+   border-color: var(--color-copy);
+   background: unset;
 }
 
    
